@@ -11,6 +11,9 @@ but :
 
 Installation
 ------------
+- Download the archive.
+- Use the joomla installer as all modules.
 
-Use joomla installer as all modules
+If you have already the virtuemart 2 pack installed, this replace the original module.
+If you install the allInOne pack from Virtuemart 2.0, this module get removed and replaced by the original.
 
